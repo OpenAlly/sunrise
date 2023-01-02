@@ -2,6 +2,10 @@
   <h1 align="center">Sunrise 🌅</h1>
 </p>
 
+<p align="center">
+<img width="800" src="./images/banner.jpg" alt="openally">
+</p>
+
 Soirée apprentissage et collaboration avec [Thomas.G](https://www.linkedin.com/in/thomas-gentilhomme/) ([@fraxken](https://twitter.com/fraxken)) sur Discord tous les **jeudis** soirs de la semaine à **21h**.
 
 [![OpenAlly](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
