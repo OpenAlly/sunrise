@@ -31,6 +31,12 @@ Certaines soirées auront des thèmes plus précis que d'autres. À noter qu'ell
 
 > Je me laisse le droit de vous renvoyer d'une session ou du Discord si je n'apprécie pas votre comportement.
 
+## Sujets à venir 
+
+- Création d'une Command Line Interface (CLI) avec Node.js
+- Explorer les AST (Abstract Syntax Tree) en JavaScript avec notamment la spécification ESTree.
+- Faire une contribution Open Source (découverte, discussion et pratique avec un contributeur NodeSecure).
+
 ---
 
 <details>
